@@ -4,9 +4,25 @@ header {
 .fl_rg {
     float: right;
 }
+
 .search {
-    width: 100%;   
+    width: 25%;   
+    float: left;
+    margin-left: 600px;
 }
 a {
     text-decoration: none;
 }   
+#search{
+    width: 300px;
+    height: 35px;
+    border-radius: 0;
+}
+#submit{
+    width: 50px;
+    height: 35px;
+    background-color: rgb(172, 172, 252);
+}
+.fl_rg a{
+    color: darkgray;
+}
