@@ -35,15 +35,13 @@ header{
     margin-left: 120px;
     margin-top: 11px;
 }
-.main{
-    
-}
 /* 거래물품 */
 #main_1 h3{
    margin-top: 45px;
    float: left;
    color: black;
    font-size: 17px;
+   margin-left: 50px;
 }
 /* 거래하기 */
 #main_2 h3{
